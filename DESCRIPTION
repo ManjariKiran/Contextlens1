@@ -1,0 +1,12 @@
+Package: LobbadLC
+Title: The package aims to identify differential loops based on local background in Hi-C data
+Version: 1.0.0.0
+Authors@R:
+    person("Manjari", "Kiran", , "manjari.hcu@uohyd.ac.in", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
